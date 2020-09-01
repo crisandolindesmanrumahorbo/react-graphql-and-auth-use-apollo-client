@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can open server or backend on this project with [Server Springboot](https://github.com/crisandolindesmanrumahorbo/spring-jwt-auth-and-graphql).
 
 ## Available Scripts
+
+In the project, you need library:
+### `npm install @apollo/client graphql`
+To inject graphql and apollo client to project.
 
 In the project directory, you can run:
 
